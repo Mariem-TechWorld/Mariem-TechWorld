@@ -56,17 +56,6 @@
 </div>
 
 ---
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Mariem-TechWorld&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariem-TechWorld&layout=compact&theme=tokyonight)
-
-</div>
-
 ---
 
 <h3 align="left">🌐 Connect With Me</h3>
